@@ -147,19 +147,22 @@ The full project report with detailed explanations and visual results can be fou
 
 ## Repository Structure
 
+```
+.
 ├── data/
-│ ├── face.mp4
-│ ├── baby2.mp4
-│ └── coffee.mp4
+│   ├── face.mp4
+│   ├── baby2.mp4
+│   └── coffee.mp4
 │
 ├── output/
-│ ├── output_face.mp4
-│ ├── output_baby2.mp4
-│ └── output_coffee.mp4
+│   ├── output_face.mp4
+│   ├── output_baby2.mp4
+│   └── output_coffee.mp4
 │
 ├── Eulerian_Video_Magnification.ipynb
 ├── Report_EVM.html
 └── README.md
+```
 
 
 ---
